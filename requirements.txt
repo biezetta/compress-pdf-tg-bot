@@ -2,3 +2,5 @@ pyrogram
 TgCrypto
 humanize
 PDFNetPython3==8.1.0
+flask
+flask_restful
